@@ -1,0 +1,3 @@
+.env
+data/raw/cache_*.json
+data/raw/chave_ativa.json
