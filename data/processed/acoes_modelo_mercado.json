@@ -1,0 +1,8 @@
+{
+ "beta": 1.281011,
+ "alfa_pct_dia": -0.00433,
+ "r2": 0.4631,
+ "n_obs": 250,
+ "inicio_estimacao": "2025-10-20",
+ "fim_estimacao": "2026-10-16"
+}
